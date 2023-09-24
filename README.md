@@ -79,10 +79,10 @@ To experience the functional version of this webshop, visit [webshop frontend](h
 
 ## Planned Upgrades
 
-I have several upgrades in the works to enhance Webshop Fullstack Project. Here are the key improvements I'm planning:
+I have several upgrades planned to enhance this project:
 
-1. **Responsive Design Implementation**: Making the webshop look great and work smoothly on all devices is my top priority. I want it to be responsive, so whether you're on a desktop, tablet, or phone, you'll have an awesome experience.
+1. **Responsive Design Implementation**: I want all pages to be responsive, so whether you're on a desktop, tablet, or phone, you'll have good user experience.
 
-2. **Transition to TypeScript**: I'm thinking about switching the project from JavaScript to TypeScript. It'll make the code stronger, catch errors sooner, and speed up development.
+2. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
 
-3. **Code Testing**: I'll be implementing unit tests for both the backend and frontend. This will ensure a reliable and stable application by catching and addressing potential issues earlier.
+3. **Code Testing**: I want to implement unit tests for both the backend and frontend because I want to catch and address potential issues earlier.
