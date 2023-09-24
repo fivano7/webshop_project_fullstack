@@ -1,0 +1,19 @@
+{
+  "name": "webshop_fullstack_project",
+  "version": "1.0.0",
+  "description": "Webshop made using next.js and express.js",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon webshop_api/src/server",
+    "client": "npm run dev --prefix webshop_frontend",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Filip Ivanovic",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

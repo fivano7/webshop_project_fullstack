@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "6172345618a1e5a2a3c9f990",
+    "orderId": "B2BC1",
+    "user": "6172345618a1e5a2a3c9f977",
+    "orderItems": ["6172345618a1e5a2a3c9f94f", "6172345618a1e5a2a3c9f950"],
+    "totalPrice": 200,
+    "deliveryDetail": {
+      "country": "Croatia",
+      "city": "Zagreb",
+      "postalCode": "10000",
+      "street": "Main Street",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "0987654312"
+    },
+    "paymentMethod": "cash",
+    "isPaid": false,
+    "isCancelled": false,
+    "orderStatuses": ["6172345618a1e5a2a3c9f963", "6172345618a1e5a2a3c9f964"]
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f991",
+    "orderId": "A5F8D",
+    "user": "6172345618a1e5a2a3c9f978",
+    "orderItems": ["6172345618a1e5a2a3c9f951", "6172345618a1e5a2a3c9f952"],
+    "totalPrice": 200,
+    "deliveryDetail": {
+      "country": "Croatia",
+      "city": "Split",
+      "postalCode": "21000",
+      "street": "Beach Avenue",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phoneNumber": "0987654312"
+    },
+    "paymentMethod": "cash",
+    "isPaid": false,
+    "isCancelled": false,
+    "orderStatuses": ["6172345618a1e5a2a3c9f965", "6172345618a1e5a2a3c9f966"]
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f992",
+    "orderId": "C7R2E",
+    "user": "6172345618a1e5a2a3c9f979",
+    "orderItems": ["6172345618a1e5a2a3c9f953", "6172345618a1e5a2a3c9f954"],
+    "totalPrice": 200,
+    "deliveryDetail": {
+      "country": "Croatia",
+      "city": "Dubrovnik",
+      "postalCode": "20000",
+      "street": "Castle Street",
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "phoneNumber": "0987654312"
+    },
+    "paymentMethod": "cash",
+    "isPaid": false,
+    "isCancelled": false,
+    "orderStatuses": ["6172345618a1e5a2a3c9f967", "6172345618a1e5a2a3c9f968"]
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f993",
+    "orderId": "D0T9F",
+    "user": "6172345618a1e5a2a3c9f97a",
+    "orderItems": ["6172345618a1e5a2a3c9f955", "6172345618a1e5a2a3c9f956"],
+    "totalPrice": 200,
+    "deliveryDetail": {
+      "country": "Croatia",
+      "city": "Rijeka",
+      "postalCode": "51000",
+      "street": "Harbor Street",
+      "firstName": "Laura",
+      "lastName": "Williams",
+      "phoneNumber": "0987654312"
+    },
+    "paymentMethod": "cash",
+    "isPaid": false,
+    "isCancelled": false,
+    "orderStatuses": ["6172345618a1e5a2a3c9f969", "6172345618a1e5a2a3c9f96a"]
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f994",
+    "orderId": "E1B3G",
+    "user": "6172345618a1e5a2a3c9f97b",
+    "orderItems": ["6172345618a1e5a2a3c9f957", "6172345618a1e5a2a3c9f958"],
+    "totalPrice": 200,
+    "deliveryDetail": {
+      "country": "Croatia",
+      "city": "Pula",
+      "postalCode": "52100",
+      "street": "Arena Street",
+      "firstName": "Robert",
+      "lastName": "Brown",
+      "phoneNumber": "0987654312"
+    },
+    "paymentMethod": "cash",
+    "isPaid": false,
+    "isCancelled": false,
+    "orderStatuses": ["6172345618a1e5a2a3c9f96b", "6172345618a1e5a2a3c9f96c"]
+  }
+]

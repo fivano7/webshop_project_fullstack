@@ -1,0 +1,53 @@
+[
+    {
+      "_id": "6172345618a1e5a2a3c9f977",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "favourite": "6172334118a1e5a2a3c9f924",
+      "cart": "6172334118a1e5a2a3c9f92f"
+    },
+    {
+      "_id": "6172345618a1e5a2a3c9f978",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "favourite": "6172334118a1e5a2a3c9f925",
+      "cart": "6172334118a1e5a2a3c9f930"
+    },
+    {
+      "_id": "6172345618a1e5a2a3c9f979",
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "email": "michael@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "favourite": "6172334118a1e5a2a3c9f926",
+      "cart": "6172334118a1e5a2a3c9f931"
+    },
+    {
+      "_id": "6172345618a1e5a2a3c9f97a",
+      "firstName": "Emily",
+      "lastName": "Williams",
+      "email": "emily@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "favourite": "6172334118a1e5a2a3c9f927",
+      "cart": "6172334118a1e5a2a3c9f932"
+    },
+    {
+      "_id": "6172345618a1e5a2a3c9f97b",
+      "firstName": "James",
+      "lastName": "Brown",
+      "email": "james@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "favourite": "6172334118a1e5a2a3c9f928",
+      "cart": "6172334118a1e5a2a3c9f933"
+    }
+  ]
+  

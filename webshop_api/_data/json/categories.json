@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "617232c118a1e5a2a3c9f8a4",
+    "name": "Dinnerware & Sets",
+    "image": "dinnerware.jpg",
+    "isDeleted": false
+  },
+  {
+    "_id": "617232c118a1e5a2a3c9f8a1",
+    "name": "Mugs & Cups",
+    "image": "cupsMugs 2.jpg",
+    "isDeleted": false
+  },
+  {
+    "_id": "617232c118a1e5a2a3c9f8a7",
+    "name": "Salad Bowls",
+    "image": "saladBowls.jpg",
+    "isDeleted": false
+  },
+  {
+    "_id": "617232c118a1e5a2a3c9f8a0",
+    "name": "Vases",
+    "image": "vases.jpg",
+    "isDeleted": false
+  },
+  {
+    "_id": "617232c118a1e5a2a3c9f8a2",
+    "name": "Decorations",
+    "image": "decorations.jpg",
+    "isDeleted": false
+  },
+  {
+    "_id": "617232c118a1e5a2a3c9f8a3",
+    "name": "Tea Sets",
+    "image": "teaSets.jpg",
+    "isDeleted": false
+  }
+]

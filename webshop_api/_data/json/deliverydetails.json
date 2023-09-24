@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "6172345618a1e5a2a3c9f91e",
+    "user": "6172345618a1e5a2a3c9f977",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "postalCode": "10000",
+    "street": "Trg bana Jelačića 1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f91f",
+    "user": "6172345618a1e5a2a3c9f977",
+    "country": "Croatia",
+    "city": "Split",
+    "postalCode": "21000",
+    "street": "Ulica kralja Tomislava 5",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f920",
+    "user": "6172345618a1e5a2a3c9f978",
+    "country": "Croatia",
+    "city": "Rijeka",
+    "postalCode": "51000",
+    "street": "Korzo 8",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f921",
+    "user": "6172345618a1e5a2a3c9f978",
+    "country": "Croatia",
+    "city": "Osijek",
+    "postalCode": "31000",
+    "street": "Europska avenija 11",
+    "firstName": "Emily",
+    "lastName": "Williams",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f922",
+    "user": "6172345618a1e5a2a3c9f979",
+    "country": "Croatia",
+    "city": "Zadar",
+    "postalCode": "23000",
+    "street": "Liburnska obala 3",
+    "firstName": "James",
+    "lastName": "Brown",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f923",
+    "user": "6172345618a1e5a2a3c9f979",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "postalCode": "10000",
+    "street": "Vukovarska ulica 2",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f924",
+    "user": "6172345618a1e5a2a3c9f97a",
+    "country": "Croatia",
+    "city": "Split",
+    "postalCode": "21000",
+    "street": "Šperun ulica 12",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f925",
+    "user": "6172345618a1e5a2a3c9f97a",
+    "country": "Croatia",
+    "city": "Rijeka",
+    "postalCode": "51000",
+    "street": "Korzo 15",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f926",
+    "user": "6172345618a1e5a2a3c9f97b",
+    "country": "Croatia",
+    "city": "Osijek",
+    "postalCode": "31000",
+    "street": "Trg slobode 8",
+    "firstName": "Emily",
+    "lastName": "Williams",
+    "phoneNumber": "0999876543"
+  },
+  {
+    "_id": "6172345618a1e5a2a3c9f927",
+    "user": "6172345618a1e5a2a3c9f97b",
+    "country": "Croatia",
+    "city": "Zadar",
+    "postalCode": "23000",
+    "street": "Liburnska obala 7",
+    "firstName": "James",
+    "lastName": "Brown",
+    "phoneNumber": "0999876543"
+  }
+]
