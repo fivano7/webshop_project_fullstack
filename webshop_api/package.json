@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "NODE_ENV=production node src/server",
-    "dev": "nodemon src/server"
+    "dev": "nodemon src/server",
+    "import_data": "node _data/seeder.js -i",
+    "delete_data": "node _data/seeder.js -d"
   },
   "author": "Filip Ivanovic",
   "license": "MIT",

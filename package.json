@@ -6,7 +6,7 @@
   "scripts": {
     "server": "nodemon webshop_api/src/server",
     "client": "npm run dev --prefix webshop_frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "start": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "Filip Ivanovic",
   "license": "ISC",
