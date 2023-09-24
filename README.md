@@ -4,11 +4,9 @@ This repository contains two projects: webshop_api and webshop_frontend. The web
 
 ## Features & Technologies
 
-### Webshop API
+Webshop API acts as the backend application for communication between the frontend and the database. It is built using Express.js and uses the Mongoose package to interact with the MongoDB database.
 
-Webshop API acts as the backend application, facilitating seamless communication between the frontend and the database. It is built using Express.js and uses the Mongoose package to interact efficiently with the MongoDB database.
-
-Webshop Frontend serves as the user interface for the webshop application. It is developed using Next.js, enabling the rapid development of modern web applications. The frontend utilizes pure CSS for styling elements, without the need for additional libraries.
+Webshop Frontend serves as the user interface for the webshop application. It is developed using Next.js, which is framework for React. The frontend utilizes pure CSS for styling elements, without the need for additional libraries.
 
 #### Key Features
 
