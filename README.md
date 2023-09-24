@@ -85,4 +85,4 @@ I have several upgrades planned to enhance this project:
 
 2. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
 
-3. **Code Testing**: I want to implement unit tests for both the backend and frontend because I want to catch and address potential issues earlier.
+3. **Code Testing**: I want to implement unit tests for both the backend and frontend.
