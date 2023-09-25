@@ -34,6 +34,18 @@ Webshop Frontend serves as the user interface for the webshop application. It is
 
 - **Admin Panel**: When logged in as an admin, you have the ability to manage categories, products, featured products, FAQs, orders, user data, and send newsletters to subscribers from the admin panel.
 
+Here are screenshots of a few pages:
+
+![Home Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/d14902f1-bcb6-4a76-87d8-74735ef32289)
+![Category Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/237522c8-8fe2-4e99-a5f8-018828b0f762)
+![Product Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/32c567e9-7630-4113-96c2-ae07a08e7dd4)
+![Login Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/20992c31-db8f-4da7-a2c9-ade7c57b31ff)
+![Favourites Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/b51bce6a-592e-4720-92b3-cd45151143aa)
+![Cart Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/bc1eedd5-73c6-4b26-af4f-7bda7f7768c5)
+![Stripe Payment](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/8a1e7858-6dd7-4654-9d55-b146387b967a)
+![Order Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/70e32166-993c-42cc-b0bc-4dd056bc9161)
+![Admin Page](https://github.com/fivano7/webshop_project_fullstack/assets/47385995/b8147b66-caa2-4769-838b-9696b4d09d39)
+
 ## Project In Action
 ### Explore API Documentation
 
