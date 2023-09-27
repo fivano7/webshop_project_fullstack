@@ -93,8 +93,10 @@ To experience the functional version of this webshop, visit [webshop frontend](h
 
 I have several upgrades planned to enhance this project:
 
-1. **Responsive Design Implementation**: I want all pages to be responsive, so whether you're on a desktop, tablet, or phone, you'll have good user experience.
+1. **Email Sending Enhancement**: I will replace the "mailtrap" service with actual email delivery to improve communication.
 
-2. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
+2. **Responsive Design Implementation**: I want all pages to be responsive, so whether you're on a desktop, tablet, or phone, you'll have good user experience.
 
-3. **Code Testing**: I want to implement unit tests for both the backend and frontend.
+3. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
+
+4. **Code Testing**: I want to implement unit tests for both the backend and frontend.
