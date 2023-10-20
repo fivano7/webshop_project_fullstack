@@ -183,7 +183,7 @@ exports.stripeWebhook = asyncHandler(async (req, res, next) => {
     const stripeReceiptUrl = (await stripe.charges.list({ payment_intent: paymentIntentId })).data[0].receipt_url;
 
     const subject = 'Your order on Webshop';
-    const message = `Thank you for ordering products on our website: <p><a href="${stripeReceiptUrl}" style="display: inline-block; background-color: #007bff; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px;">Receipt</a></p>`;
+    const message = `<html lang="en"><head><style> body {font-family: Arial, sans-serif; background-color: white; color: black; text-align: center; } .container { width:85%; border: 4px solid black; padding: 20px; display: inline-block; } .button { display: inline-block; background-color: black; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; }    </style>  </head>  <body>    <div class="container"> <h1>Smith Pottery | Webshop</h1> <p>Thank you for ordering products on our website! You can view your receipt here:</p> <a href="${stripeReceiptUrl}" class="button">View Receipt</a></div></body></html>`
 
     switch (event.type) {
       case 'checkout.session.completed':
