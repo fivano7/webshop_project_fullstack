@@ -10,6 +10,8 @@ Webshop Frontend serves as the user interface for the webshop application. It is
 
 #### Key Features
 
+You can watch a preview video of the webshop [here](https://www.youtube.com/watch?v=k2Ni4-Trvh4&ab_channel=FilipIvanovic).
+
 - **User Authentication and Authorization**: This includes secure user registration, login, and robust authorization mechanisms using Json Web Token (JWT). Additionally, it implements mechanisms for email address confirmation using tokens sent to the user's email and password reset functionality, which also uses tokens sent to the user's email.
 
 - **Entity Management**: The application uses 15 main entities: User, Category, Product, Cart, CartItem, Favorite, FavoriteItem, Order, OrderItem, OrderStatus, Review, FAQ, DeliveryDetail, NewsletterSubscriber, and FeaturedItem. It supports CRUD (Create, Read, Update, Delete) operations for all of these entities.
@@ -91,8 +93,10 @@ To experience the functional version of this webshop, visit [webshop frontend](h
 
 I have several upgrades planned to enhance this project:
 
-1. **Responsive Design Implementation**: I want all pages to be responsive, so whether you're on a desktop, tablet, or phone, you'll have good user experience.
+1. **Email Sending Enhancement**: I will replace the "mailtrap" service with actual email delivery to improve communication.
 
-2. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
+2. **Responsive Design Implementation**: I want all pages to be responsive, so whether you're on a desktop, tablet, or phone, you'll have good user experience.
 
-3. **Code Testing**: I want to implement unit tests for both the backend and frontend.
+3. **Transition to TypeScript**: I want to switch from JavaScript to TypeScript because of all the benefits it brings.
+
+4. **Code Testing**: I want to implement unit tests for both the backend and frontend.
